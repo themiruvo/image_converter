@@ -24,6 +24,6 @@ A Python script to convert all images in a folder to different formats (.jpg, .p
 - The converted images will be saved in a converted folder inside your chosen directory.
 
 
-Feel Free to use it for your images....
+Feel Free to use it for your FiveM Inventory images....
 
 See ya !
